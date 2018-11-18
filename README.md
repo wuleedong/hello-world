@@ -1,4 +1,8 @@
-# hello-world
+## hello-world
+2018-11
+ learn more. Fighting!  product manager.
+
+2017-4
 just for exercise of git operation
 Hi everyone.
 
